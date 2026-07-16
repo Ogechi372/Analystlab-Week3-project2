@@ -44,8 +44,7 @@ The Sales dataset represents order-level transactions from a wholesale/retail bu
 - Customer information (name, contact, phone, address, city, state, country)
 - Territory and deal size classification
 
-📂 **[View the raw dataset (sales_data_sample.csv)(1)](./sales_data_sample.csv(1))**
-
+📂 **View the raw dataset (sales_data_sample (1).csv)**
 Original source: [Kaggle — Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 
 A supporting lookup table, **territory_region**, was created to map each `TERRITORY` to a `REGION_MANAGER`, enabling JOIN practice since the source dataset is a single flat table.
