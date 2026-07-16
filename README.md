@@ -13,7 +13,7 @@ This project demonstrates the use of SQL to explore, query, and analyze the Samp
 | Detail | Information |
 |---------|-------------|
 | Project | Week 3 Project 2 – SQL Data Analysis |
-| Analyst | [Your Name] |
+| Analyst | Benjamin Umanta Esther |
 | Program | AnalystLab Africa Data Analytics Internship |
 | Tool | DB Browser for SQLite |
 | Database | sales.db |
