@@ -46,6 +46,8 @@ The Sales dataset represents order-level transactions from a wholesale/retail bu
 
 A supporting lookup table, **territory_region**, was created to map each `TERRITORY` to a `REGION_MANAGER`, enabling JOIN practice since the source dataset is a single flat table.
 
+View the raw dataset (sales_data_sample.csv (1))
+Original source: Kaggle — Sample Sales Data
 ---
 
 # Tools Used
