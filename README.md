@@ -783,7 +783,7 @@ Confirmed all 3 indexes exist in the database.
 
 **Insight**
 
-Euro Shopping Channel and Mini Gifts Distributors Ltd. together account for a disproportionate share of revenue — a concentrated customer base worth prioritizing for retention.
+Euro Shopping Channel and Mini Gifts Distributors Ltd. together account for a disproportionate share of revenue a concentrated customer base worth prioritizing for retention.
 
 ### Which product line performs best?
 
@@ -820,7 +820,7 @@ Large deals are rare (157 orders) but roughly 4x more valuable on average than S
 
 # Challenges Encountered
 
-- The dataset is a single flat table, unlike Chinook's multiple related tables — a `territory_region` lookup table had to be created from scratch to practice joins meaningfully.
+- The dataset is a single flat table, unlike Chinook's multiple related tables a `territory_region` lookup table had to be created from scratch to practice joins meaningfully.
 - The CSV file used non-standard text encoding, which caused import errors until it was changed to ISO-8859-1.
 - The imported table name didn't match the script (imported as `sale` instead of `sales`), requiring an `ALTER TABLE RENAME` to fix.
 - Losing unsaved script progress after a session reset, reinforcing the need to save the SQL project file regularly.
