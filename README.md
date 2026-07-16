@@ -44,7 +44,7 @@ The Sales dataset represents order-level transactions from a wholesale/retail bu
 - Customer information (name, contact, phone, address, city, state, country)
 - Territory and deal size classification
 
-📂 **[View the raw dataset (sales_data_sample.csv)](./sales_data_sample.csv)**
+📂 **[View the raw dataset (sales_data_sample.csv)(1)](./sales_data_sample.csv(1))**
 
 Original source: [Kaggle — Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 
