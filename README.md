@@ -4,7 +4,7 @@
 
 # Project Overview
 
-This project demonstrates the use of SQL to explore, query, and analyze the Sample Sales Data dataset (used as the AdventureWorks Lite equivalent) using **DB Browser for SQLite**. The objective was to practice SQL querying techniques from basic retrieval through joins, subqueries, and window functions and generate meaningful business insights from a real-world sales dataset.
+This project demonstrates the use of SQL to explore, query, and analyze the Sample Sales Data dataset (used as the AdventureWorks Lite equivalent) using **DB Browser for SQLite**. The objective was to practice SQL querying techniques — from basic retrieval through joins, subqueries, and window functions and generate meaningful business insights from a real-world sales dataset.
 
 ---
 
@@ -44,10 +44,12 @@ The Sales dataset represents order-level transactions from a wholesale/retail bu
 - Customer information (name, contact, phone, address, city, state, country)
 - Territory and deal size classification
 
+📂 **[View the raw dataset (sales_data_sample.csv)](./sales_data_sample.csv)**
+
+Original source: [Kaggle — Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+
 A supporting lookup table, **territory_region**, was created to map each `TERRITORY` to a `REGION_MANAGER`, enabling JOIN practice since the source dataset is a single flat table.
 
-View the raw dataset (sales_data_sample.csv (1))
-Original source: Kaggle — Sample Sales Data
 ---
 
 # Tools Used
@@ -785,7 +787,7 @@ Confirmed all 3 indexes exist in the database.
 
 **Insight**
 
-Euro Shopping Channel and Mini Gifts Distributors Ltd. together account for a disproportionate share of revenue a concentrated customer base worth prioritizing for retention.
+Euro Shopping Channel and Mini Gifts Distributors Ltd. together account for a disproportionate share of revenue — a concentrated customer base worth prioritizing for retention.
 
 ### Which product line performs best?
 
