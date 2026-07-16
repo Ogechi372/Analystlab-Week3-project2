@@ -4,7 +4,7 @@
 
 # Project Overview
 
-This project demonstrates the use of SQL to explore, query, and analyze the Sample Sales Data dataset (used as the AdventureWorks Lite equivalent) using **DB Browser for SQLite**. The objective was to practice SQL querying techniques — from basic retrieval through joins, subqueries, and window functions — and generate meaningful business insights from a real-world sales dataset.
+This project demonstrates the use of SQL to explore, query, and analyze the Sample Sales Data dataset (used as the AdventureWorks Lite equivalent) using **DB Browser for SQLite**. The objective was to practice SQL querying techniques from basic retrieval through joins, subqueries, and window functions and generate meaningful business insights from a real-world sales dataset.
 
 ---
 
